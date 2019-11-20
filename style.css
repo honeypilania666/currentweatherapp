@@ -1,9 +1,9 @@
 .grey-jumbo
 {
 	margin-top: -2rem;
-	height: 31rem;
+	height: 33rem;
 	background-color: #42a5f5;
-	background-size: cover;
+	background-size: 100% 100%;
 	color:#f43d0f;
 	border-radius: 0px !important;
 
@@ -29,15 +29,16 @@ hr.short
 
 .top
 {
-	height:18.75rem;
+	height:16rem;
 	background: linear-gradient(120deg, #0d47a1, #42a5f5) !important;
 	color:#fff;
 	border-radius: 0px !important;
+
 }
 
 .top h1
 {
-	font-size: 4rem!important;
+	font-size: 3rem;
 }
 
 #weather
