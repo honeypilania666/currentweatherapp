@@ -1,0 +1,59 @@
+.grey-jumbo
+{
+	margin-top: -2rem;
+	height: 31rem;
+	background-color: #42a5f5;
+	background-size: cover;
+	color:#f43d0f;
+	border-radius: 0px !important;
+
+}
+
+.bottom
+{
+	padding:3rem;
+	text-align: center;
+}
+
+.bottommargin
+{
+	margin-top: 1rem;
+}
+
+hr.short
+{
+	width:4.5rem;
+	border-bottom: 2px solid #fff;
+}
+
+
+.top
+{
+	height:18.75rem;
+	background: linear-gradient(120deg, #0d47a1, #42a5f5) !important;
+	color:#fff;
+	border-radius: 0px !important;
+}
+
+.top h1
+{
+	font-size: 4rem!important;
+}
+
+#weather
+{
+	font-size: 2rem!important;
+}
+
+#info1,
+#info2
+{
+	font-size: 2rem;
+}
+
+#info3
+{
+	font-size: 2.5rem;
+}
+
+
